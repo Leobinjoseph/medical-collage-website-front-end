@@ -1,0 +1,72 @@
+#top{
+    background-color: gainsboro;
+    color: darkgray;
+}
+.navbar-brand{
+    font-size: 14px;
+}
+
+
+#na-bar{
+    background-color: white;
+    height: 100px;
+    font-size: 15px;
+    transition: ease-in-out all 2.5s;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+li a:hover:not(.active) {
+    color: rgb(46, 137, 227);
+}
+li a.active{
+    color: rgb(46, 137, 227);
+}
+
+
+.sign{
+    position: absolute;
+    right: 50px;  
+}
+#carouselExampleIndicators{
+    text-align: center;
+    width: 1200px;
+    
+}
+
+footer{
+    margin-top: 80px;
+    position: relative;
+    background-color: rgb(21, 21, 21);
+    color: rgb(127, 129, 132);
+    z-index: 1;
+}
+.contact{
+    position: absolute;
+    margin-left: 1040px;
+    font-size: smaller;
+}
+.enq{
+    margin-left: 20px;
+    font-size: smaller;
+}
+.ll{
+    background-color: rgb(46, 137, 227);
+    color: aliceblue;
+}
+
+
+.news1{
+    background-color:rgb(225, 221, 221);
+    color: rgb(46, 137, 227);
+    margin-top: 40px;
+    border-radius: 0px 60px 0px 60px;
+    width: 900px;
+    margin-left: 200px;
+    text-align: center;
+}
+.link1{
+    color: rgb(46, 137, 227);
+    text-decoration: none;
+}
+

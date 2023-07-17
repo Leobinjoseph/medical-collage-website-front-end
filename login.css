@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.log{
+    text-align: center;
+    margin-top: 150px;
+    background-color: rgb(220, 220, 220);
+    color: rgb(46, 137, 227);
+    width: 350px;
+    height: 290px;
+    margin-left: 420px;
+    border-radius: 0px 60px 0px 60px;
+    border-style: solid;
+    border-color: rgb(153, 153, 153);
+  
+
+    
+    
+}
+#sub{
+    background-color: rgb(46, 137, 227);
+    color: aliceblue;
+    border-radius: 10px;
+    
+}
+

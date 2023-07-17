@@ -1,0 +1,100 @@
+#top{
+    background-color: gainsboro;
+    color: darkgray;
+}
+.navbar-brand{
+    font-size: 14px;
+}
+
+
+#na-bar{
+    background-color: white;
+    height: 100px;
+    font-size: 15px;
+    transition: ease-in-out all 2.5s;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+li a:hover:not(.active) {
+    color: rgb(46, 137, 227);
+}
+li a.active{
+    color: rgb(46, 137, 227);
+}
+
+
+.sign{
+    position: absolute;
+    right: 50px;  
+}
+#carouselExampleIndicators{
+    text-align: center;
+    width: 1200px;
+    
+}
+
+footer{
+    margin-top: 80px;
+    position: relative;
+    background-color: rgb(21, 21, 21);
+    color: rgb(127, 129, 132);
+    z-index: 1;
+}
+.contact{
+    position: absolute;
+    margin-left: 1040px;
+    font-size: smaller;
+}
+.enq{
+    margin-left: 20px;
+    font-size: smaller;
+}
+.ll{
+    background-color: rgb(46, 137, 227);
+    color: aliceblue;
+}
+
+
+
+.cards{
+    margin-left: 230px;
+    width: 327px;
+    margin-top: 50px;
+    color: rgb(55, 54, 54);
+    
+}
+.card1{
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(240, 240, 240) ;
+    width: 800px;
+    z-index: 1;
+    margin-left: 10px;
+    border-radius: 0px 60px 0px 60px;
+    
+
+}
+.card2{
+    background-color: rgb(240, 240, 240);
+    width: 800px;
+    text-align: center;
+    z-index: 1;
+    margin-left: 10px;
+    border-radius: 0px 60px 0px 60px;
+}
+.card3{
+    background-color: rgb(240, 240, 240);
+    width: 800px;
+    text-align: center;
+    z-index: 1;
+    margin-left: 10px;
+    border-radius: 0px 60px 0px 60px;
+}
+.tab{
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 50px;
+    z-index: 2;
+  
+}
